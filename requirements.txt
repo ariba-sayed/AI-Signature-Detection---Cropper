@@ -1,0 +1,7 @@
+datasets 
+pillow 
+opencv-python 
+numpy 
+matplotlib
+huggingface_hub
+ultralytics
